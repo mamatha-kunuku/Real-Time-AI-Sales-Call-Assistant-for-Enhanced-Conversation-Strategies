@@ -1,3 +1,17 @@
+How much data is needed for machine learning?
+-	depends on several factors, such as type of problem being solved, the complexity of the model, accuracy of the data, and availability of labeled data.
+Estimating the amount of data needed can be approached in two ways:
+1.	A rule-of-thumb approach:
+-	The rule of thumb regarding machine learning is that you need at least ten times as many rows (data points) as there are features (columns) in your dataset. This means that if your dataset has 10 columns (i.e., features), you should have at least 100 rows for optimal results.
+-	It involves using heuristics, past experiences, or general guidelines to determine the dataset size. 
+-	However, this approach may not account for the complexity of the problem, the nature of the data, or the requirements of the model accurately.
+2.	Statistical methods:
+-	These methods take into account various factors such as desired statistical power, confidence level, effect size, and variability in the data. 
+-	Common statistical methods include power analysis, t-tests, chi-squared tests, ….. 
+-	Provides more accurate and precise estimation of the necessary dataset size based on statistical principles.
+Choosing the appropriate approach depends on the specific context, the nature of the problem, the available resources, and the level of confidence and accuracy required for the analysis or model.
+
+
 1) True or False: Having a large dataset guarantees high data quality
 a)	True
 b)	False
