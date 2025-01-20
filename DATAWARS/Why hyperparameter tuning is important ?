@@ -1,0 +1,34 @@
+Hyperparameter tuning -->  Hyperparameter tuning is the process of adjusting the settings of a machine learning model to improve its performance. 
+                           These settings, called hyperparameters, are chosen before training and can affect how well the model learns from data. 
+                           Tuning helps find the best combination of these settings for more accurate and effective predictions.
+                           we will perform hyperparameter tuning to find the best combination of hyperparameters.
+
+
+
+1) In the hyperparameter tuning lab, which evaluation metric is used to measure the performance of the logistic regression model?
+a. F1-score
+b. Accuracy
+c. Recall
+d. Precision
+
+Correct! - b
+
+
+2) What is the purpose of hyperparameter tuning in machine learning?
+a. To adjust the model's internal parameters during training.
+b. To select the best features for the model.
+c. To find the best combination of hyperparameters for the model.
+
+Correct! - c
+
+
+3) What does the plot in final step of the lab indicate?
+a. The training accuracy of the logistic regression model.
+b. The impact of hyperparameter tuning on the model's computational resources.
+c. The relationship between regularization strength and feature importance.
+d. The testing accuracy of the logistic regression model.
+
+Correct! - d
+
+
+
